@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="permiddiscription">앱 권한 허용</string>
+</resources>

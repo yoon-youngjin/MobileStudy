@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="country_prompt">Choose a country</string>
+    <string-array name="countries">
+    <item>대한전자</item>
+    <item>민국전자</item>
+    <item>만세전자</item>
+
+    </string-array>
+</resources>

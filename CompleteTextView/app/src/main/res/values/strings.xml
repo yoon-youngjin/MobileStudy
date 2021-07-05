@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CompleteTextView</string>
+
+    <string-array name ="country_name">
+        <item>ABCD</item>
+        <item>ASDFSD</item>
+        <item>AQWEQWR</item>
+        <item>ABGFB</item>
+        <item>BCD</item>
+        <item>BSADF</item>
+        <item>BWEFWEf</item>
+        <item>BBCD</item>
+    </string-array>
+
+
+</resources>
