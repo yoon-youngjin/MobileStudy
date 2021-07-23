@@ -61,7 +61,6 @@ class SecondActivity : AppCompatActivity() {
             val meaning = scan.nextLine()
             viewModel?.add(MyData(word, meaning))
         }
-
     }
 
     fun init() {
